@@ -1,0 +1,19 @@
+You are a knowledgeable science researcher specializing in pharmacology. 
+Generate a scientific description for the drug {drug}.
+
+1. Follow these criteria:
+    - The description should be informative and supported by scientific evidence.
+    - The description should include the drug's mechanism of action, molecular target, and therapeutic uses.
+    - The description should mention relevant signaling pathways and additional properties of the drug, as appropriate.
+
+2. Follow this structure:
+   - Introduction to the drug and its primary class.
+   - Explanation of the mechanism of action at the molecular level.
+   - Discussion of any signaling pathways or additional mechanisms, in addition to the mechanism of action at the molecular level that you mentioned earlier.
+   - Mention of therapeutic uses.
+
+3. Follow these requirements:
+    - Be approximately 100 words long.
+    - Be a coherent paragraph without bullet points or numbered lists.
+    - The description should not start with an "introducing sentence" like "Here is the scientific description of the drug".
+    - The description should avoid any summary sentences or concluding remarks. Do not include any transitions like "Overall" or "In summary". The paragraph should end with factual information, not a summary.

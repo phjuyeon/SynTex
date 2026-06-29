@@ -1,0 +1,13 @@
+setuptools<82
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.1.2+cu118
+torchvision==0.16.2+cu118
+torchaudio==2.1.2+cu118
+lightning==2.2.0
+numpy==1.26.3
+pandas==2.2.1
+scipy==1.15.3
+scikit-learn==1.7.0
+pyyaml==6.0.2
+openai==0.28.0
+tqdm==4.66.1

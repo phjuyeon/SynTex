@@ -1,0 +1,17 @@
+lr: 0.0001
+weight_decay: 0.001
+epoch: 100
+dropout: 0.2
+layer0: 8192
+layer1: 4096
+batch: 64
+seed: 2025
+nhead: 1
+num_layers: 2
+dim_feedforward: 3072
+dim_t: 1536
+dim_s: 2048
+dim_p: 922
+dim_c: 1536
+patience_es: 20
+patience_lr: 3
