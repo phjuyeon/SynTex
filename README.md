@@ -9,7 +9,7 @@ Identifying synergistic drug combinations is essential for effective cancer ther
 
 ### Model Architecture
 
-![Model Architecture](figures/figure1.jpg)
+![Model Architecture](figures/figure1.jpg?raw=1)
 
 ## Installation
 
